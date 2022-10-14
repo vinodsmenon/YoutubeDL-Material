@@ -78,7 +78,7 @@
     "karma-jasmine-html-reporter": "^1.5.0",
     "openapi-typescript-codegen": "^0.21.0",
     "protractor": "~7.0.0",
-    "ts-node": "~3.0.4",
+    "ts-node": "~10.9.1",
     "tslint": "~6.1.0"
   }
 }
